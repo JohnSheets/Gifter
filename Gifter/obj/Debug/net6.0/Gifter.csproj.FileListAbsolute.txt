@@ -64,3 +64,6 @@ C:\Users\user\workspace\Gifter\Gifter\obj\Debug\net6.0\refint\Gifter.dll
 C:\Users\user\workspace\Gifter\Gifter\obj\Debug\net6.0\Gifter.pdb
 C:\Users\user\workspace\Gifter\Gifter\obj\Debug\net6.0\Gifter.genruntimeconfig.cache
 C:\Users\user\workspace\Gifter\Gifter\obj\Debug\net6.0\ref\Gifter.dll
+C:\Users\user\workspace\Gifter\Gifter\bin\Debug\net6.0\client\package-lock.json
+C:\Users\user\workspace\Gifter\Gifter\bin\Debug\net6.0\client\package.json
+C:\Users\user\workspace\Gifter\Gifter\bin\Debug\net6.0\client\public\manifest.json
